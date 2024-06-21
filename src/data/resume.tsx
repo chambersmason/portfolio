@@ -7,7 +7,7 @@ export const DATA = {
     "location": "Los Angeles, CA",
     "locationLink": "https://www.google.com/maps/place/losangeles",
     "description": "Software Engineer turned Entrepreneur. On the constant pursuit of knowledge.",
-    "summary": "Currently building AI solutions for Industry Inteligence. Building Scripter on the side. Pusuing a Masters in Artificial Intelligence and Computer Science in 2025.",
+    "summary": "Currently building AI solutions for Industry Inteligence. Building Scripter with Founders University Cohort 8 on the side. Pusuing a Masters in Artificial Intelligence and Computer Science in 2025.",
     "avatarUrl": "/me.png",
     "skills": [
       "Java",
@@ -57,25 +57,25 @@ export const DATA = {
     "work": [
       {
         "company": "Industry Intelligence Inc",
-        "href": "",
+        "href": "https://www.industryintel.com/",
         "badges": [],
         "location": "Los Angeles, CA",
         "title": "AI Software Solutions Engineer",
         "logoUrl": "/iii1.jpeg",
-        "start": "June 2023",
+        "start": "May 2023",
         "end": "Present",
-        "description": "Spearheaded AI operations and deployment initiatives across IT, Sales, and Content departments. Designed and deployed a legislative analysis tool that aggregates and custom-generates reports for businesses based on relevant federal and state legislation. This tool processes the potential impact of bills and tags the data with proprietary data – significantly enhancing decision-making for impacted industries. Over 500k pieces of legislation processed ytd. Increased monthly content generation by 900%. Developed a program that processes over 1.5k companies’ social media posts daily, compiling them into AI-generated news articles. These articles provide insights into their social media strategies and the industry relevance of their content, resulting in over 30k articles. Engineered an AI-driven admin tool for internal use, enabling automatic enrichment of legacy article tagging processes by translating natural language to our proprietary tagging schema. Developed a solution integrating multiple large language model APIs with Langchain and vector databases, utilizing a catalog of over 10 million articles to fine-tune a bot for answering industry-specific questions. Developed a cutting-edge system that utilizes a Retrieval-Augmented Generation (RAG) and agentic workflows for multi-label classification on social media, news, patents, stock reports, finances, legislation. Upgraded article search capabilities by incorporating vector search, transforming searches into a bespoke tagging language for Industry Intelligence, improving search accuracy and speed for client news data. Orchestrated annual project timelines covering both internal tools and market releases, including setting deadlines, budgeting, establishing quality assurance benchmarks, and strategic planning for future endeavors. Collaborated closely with the sales team and CEO to optimize monetization strategies for new projects. Implemented an AI module for detecting duplicate articles from different sources and authors."
+        "description": "I lead AI operations, most notably designing and deploying a legislative analysis tool that processes over 500k pieces of legislation annually, significantly enhancing decision-making for businesses. Additionally, I developed programs that increased monthly content generation by 1000%, processed social media posts from 2k companies daily to generate Ai generated news articles."
       },
       {
         "company": "Prometheus Group",
-        "href": "",
+        "href": "https://www.prometheusgroup.com/",
         "badges": [],
         "location": "Raleigh, NC",
         "title": "Senior Full-Stack Web Developer",
         "logoUrl": "/promo.webp",
         "start": "June 2020",
         "end": "January 2023",
-        "description": "Developed and optimized custom version of the Vulcan web app, an ERP and asset management solution, for 20+ major clients including Google, Chevron, and Coca-Cola. Contributed 5000+ commits to Vulcan and its associated microservices utilizing React, Redux, TypeScript, JavaScript, Java, C++, SQL, Docker, AWS, SAP, and ABAP. Engaged directly with customers, project managers, and implementation teams to identify specific requirements and design tailored solutions; utilized Jira, Confluence, and Git to monitor and manage project progress effectively. Participated in customer debugging sessions, offering comprehensive support from initial diagnosis to final deployment, ensuring seamless integration and satisfaction. Conducted thorough code reviews, facilitated bug resolution, and allocated tasks among team members to optimize workflow efficiency and product quality. Mentored and trained new developers, sharing best practices to strengthen the team's collective expertise. Spearheaded scrum meetings, diligently tracked release schedules, and efficiently managed deadlines across multiple concurrent projects, ensuring timely delivery and client satisfaction."
+        "description": "I developed and optimized a custom version of the Vulcan web app, an ERP and asset management solution, for over 20 major clients including Google, Chevron, and Coca-Cola, contributing 5000+ commits and engaging directly with customers and project teams to design tailored solutions. \n\n Additionally, I participated in debugging sessions, conducted code reviews, mentored new developers, and managed multiple projects using Jira, Confluence, and Git, ensuring timely delivery and client satisfaction."
       },
       {
         "company": "Avid",
@@ -118,7 +118,7 @@ export const DATA = {
           {
             "type": "Website",
             "href": "https://scripter-v1.com",
-            // "icon": "<Icons.globe className='size-3' />"
+            "icon": "<Icons.globe className='size-3' />"
           }
         ],
         // "image": "scripterthing.png",
